@@ -59,4 +59,4 @@ jobs:
           app-name: 'myappnode'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14272329920346158A41D1D5822943DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C997E4A88F144F188B1A905F0ADD3AC4 }}
